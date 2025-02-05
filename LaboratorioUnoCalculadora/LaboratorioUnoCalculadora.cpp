@@ -17,7 +17,7 @@ for (size_t i =0; i< entrada.length(); ++i){
     }
 }
 if (posicion == string::npos){
-    cout<<"No ingreso un operador válido."<<endl;
+    cout<<"No ingreso un operador valido."<<endl;
     return 1;
 }
 numeroUno = atof(entrada.substr(0, posicion).c_str());//atof = ASCII a float, aunque convierte en double, algo confuso la verdad
