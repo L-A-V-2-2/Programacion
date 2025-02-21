@@ -21,12 +21,12 @@ int main() {
         } while (candidato != "none" && candidato != "None" && candidato != "NONE");
 
         int numeroCandidatos = candidatos.size();
-        vector<vector<int>> votos(3, vector<int>(numeroCandidatos, 0));
+        vector<vector<int>> votos(5, vector<int>(numeroCandidatos, 0));
         vector<int> totalVotos(numeroCandidatos, 0);
         random_device rd;
         mt19937 gen(rd());
 
-        for (int i = 0; i < 3; i++) {
+        for (int i = 0; i < 5; i++) {
             vector<int> distribuciones(numeroCandidatos, 0);
             int suma = 50;
             for (int j = 0; j < numeroCandidatos - 1; j++) {
