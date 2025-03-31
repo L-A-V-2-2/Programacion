@@ -89,3 +89,38 @@
 	<algorithm>
 	<iomanip>
 
+1743301816 source:c:\users\lava2\documents\programacion\programacion_1\programacion\laboratorio sobre bibliotecas\entregas\controlpartidosdefootballproyecto\equipo.cpp
+	"Equipo.h"
+
+1743301816 c:\users\lava2\documents\programacion\programacion_1\programacion\laboratorio sobre bibliotecas\entregas\controlpartidosdefootballproyecto\equipo.h
+	<iostream>
+	<string>
+
+1743301816 source:c:\users\lava2\documents\programacion\programacion_1\programacion\laboratorio sobre bibliotecas\entregas\controlpartidosdefootballproyecto\equipos.cpp
+	"equipos.h"
+
+1743301816 c:\users\lava2\documents\programacion\programacion_1\programacion\laboratorio sobre bibliotecas\entregas\controlpartidosdefootballproyecto\equipos.h
+
+1743301816 source:c:\users\lava2\documents\programacion\programacion_1\programacion\laboratorio sobre bibliotecas\entregas\controlpartidosdefootballproyecto\generargoles.cpp
+	"GenerarGoles.h"
+	"Equipo.h"
+	"GenerarGoles.h"
+	<vector>
+
+1743301816 c:\users\lava2\documents\programacion\programacion_1\programacion\laboratorio sobre bibliotecas\entregas\controlpartidosdefootballproyecto\generargoles.h
+	<cstdlib>
+	<ctime>
+
+1743301816 source:c:\users\lava2\documents\programacion\programacion_1\programacion\laboratorio sobre bibliotecas\entregas\controlpartidosdefootballproyecto\main.cpp
+	"Torneo.h"
+
+1743301816 c:\users\lava2\documents\programacion\programacion_1\programacion\laboratorio sobre bibliotecas\entregas\controlpartidosdefootballproyecto\torneo.h
+	"Equipo.h"
+	"GenerarGoles.h"
+	<vector>
+
+1743301816 source:c:\users\lava2\documents\programacion\programacion_1\programacion\laboratorio sobre bibliotecas\entregas\controlpartidosdefootballproyecto\torneo.cpp
+	"Torneo.h"
+	<algorithm>
+	<iomanip>
+

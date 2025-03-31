@@ -58,3 +58,62 @@
 	<algorithm>
 	<vector>
 
+1743056416 source:c:\users\lava2\documents\programacion\programacion_1\programacion\laboratorio sobre bibliotecas\entregas\partidospolíticos\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<string.h>
+	<iomanip>
+	<algorithm>
+	<vector>
+	"ciclo.h"
+	"matriz.h"
+	"resultados.h"
+
+1743316660 c:\users\lava2\documents\programacion\programacion_1\programacion\laboratorio sobre bibliotecas\entregas\partidospolíticos\include\ciclo.h
+
+1743319060 c:\users\lava2\documents\programacion\programacion_1\programacion\laboratorio sobre bibliotecas\entregas\partidospolíticos\include\matriz.h
+	<vector>
+
+1743319043 c:\users\lava2\documents\programacion\programacion_1\programacion\laboratorio sobre bibliotecas\entregas\partidospolíticos\include\resultados.h
+	<vector>
+	<string>
+	<iostream>
+	<matriz.h>
+
+1743319043 source:c:\users\lava2\documents\programacion\programacion_1\programacion\laboratorio sobre bibliotecas\entregas\partidospolíticos\src\ciclo.cpp
+	"ciclo.h"
+	"matriz.h"
+	"resultados.h"
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<string.h>
+	<iomanip>
+	<algorithm>
+	<vector>
+
+1743318251 source:c:\users\lava2\documents\programacion\programacion_1\programacion\laboratorio sobre bibliotecas\entregas\partidospolíticos\src\matriz.cpp
+	"matriz.h"
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<string.h>
+	<iomanip>
+	<algorithm>
+	<vector>
+
+1743319043 source:c:\users\lava2\documents\programacion\programacion_1\programacion\laboratorio sobre bibliotecas\entregas\partidospolíticos\src\resultados.cpp
+	"resultados.h"
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<string.h>
+	<iomanip>
+	<algorithm>
+	<vector>
+
