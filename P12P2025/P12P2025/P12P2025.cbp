@@ -2,12 +2,12 @@
 <CodeBlocks_project_file>
 	<FileVersion major="1" minor="6" />
 	<Project>
-		<Option title="BuscaMinas" />
+		<Option title="P12P2025" />
 		<Option pch_mode="2" />
 		<Option compiler="gcc" />
 		<Build>
 			<Target title="Debug">
-				<Option output="bin/Debug/BuscaMinasDidactica" prefix_auto="1" extension_auto="1" />
+				<Option output="bin/Debug/P12P2025" prefix_auto="1" extension_auto="1" />
 				<Option object_output="obj/Debug/" />
 				<Option type="1" />
 				<Option compiler="gcc" />
@@ -17,7 +17,7 @@
 				</Compiler>
 			</Target>
 			<Target title="Release">
-				<Option output="bin/Release/BuscaMinasDidactica" prefix_auto="1" extension_auto="1" />
+				<Option output="bin/Release/P12P2025" prefix_auto="1" extension_auto="1" />
 				<Option object_output="obj/Release/" />
 				<Option type="1" />
 				<Option compiler="gcc" />
@@ -34,15 +34,13 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
-		<Unit filename="include/Config.h" />
-		<Unit filename="include/Juego.h" />
-		<Unit filename="include/Tablero.h" />
-		<Unit filename="include/celda.h" />
+		<Unit filename="include/ciclo.h" />
+		<Unit filename="include/matriz.h" />
+		<Unit filename="include/resultados.h" />
 		<Unit filename="main.cpp" />
-		<Unit filename="src/Config.cpp" />
-		<Unit filename="src/Juego.cpp" />
-		<Unit filename="src/Tablero.cpp" />
-		<Unit filename="src/celda.cpp" />
+		<Unit filename="src/ciclo.cpp" />
+		<Unit filename="src/matriz.cpp" />
+		<Unit filename="src/resultados.cpp" />
 		<Extensions>
 			<lib_finder disable_auto="1" />
 		</Extensions>
